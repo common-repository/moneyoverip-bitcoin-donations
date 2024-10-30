@@ -1,0 +1,25 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.btn-style-label {
+  display: block;
+  position: relative;
+  margin: 10px 40px 20px 0;
+}
+
+.btn-style-label:hover {}
+
+.btn-style-label input[type=radio] {
+  margin-right: 0;
+  margin-top: -50px;
+}
+
+.btn-style-label .moip-any-donate-btn {
+  filter: none !important;
+}
+
+.btn-style-label .moip-any-donate-btn:hover {
+  opacity: 0.85;
+}

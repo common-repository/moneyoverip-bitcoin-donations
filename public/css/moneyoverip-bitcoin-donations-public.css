@@ -1,0 +1,13 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+
+.moip-any-donate-btn {
+  filter: none !important;
+}
+
+.moip-any-donate-btn:hover {
+  opacity: 0.85;
+  filter: none !important;
+}
